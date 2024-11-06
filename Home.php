@@ -7,6 +7,6 @@
     <title>Home</title>
 </head>
 <body>
-    
+    <a href="user_management/login.php">Log In Here</a>
 </body>
 </html>
