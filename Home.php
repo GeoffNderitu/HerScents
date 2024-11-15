@@ -8,5 +8,6 @@
 </head>
 <body>
     <a href="user_management/login.php">Log In Here</a>
+    <a href="user_management/register.php">Register Here</a>
 </body>
 </html>
